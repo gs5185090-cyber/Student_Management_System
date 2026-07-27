@@ -1,0 +1,21 @@
+echo ALTER USER 'root'@'localhost' IDENTIFIED BY 'password123'; > C:\reset.sql2026-07-20 19:41:26 | INFO | Application started.
+2026-07-20 19:42:00 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:44:02 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:44:02 | ERROR | Error adding student: Could not connect to database: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:44:09 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:44:46 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:45:06 | INFO | Application exited.
+2026-07-20 19:46:11 | INFO | Application started.
+2026-07-20 19:46:11 | INFO | Application started.
+2026-07-20 19:46:38 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:46:49 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:46:49 | ERROR | Export failed: Could not connect to database: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 19:50:04 | INFO | Application exited.
+2026-07-20 20:07:29 | INFO | Application started.
+2026-07-20 20:10:11 | ERROR | Database connection error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-20 20:41:36 | INFO | Application started.
+2026-07-20 20:44:11 | INFO | Student Updated: ID=1
+2026-07-20 20:46:15 | INFO | Exported 4 students to C:\Users\Gowri\Downloads\StudentManagementSystem\StudentManagementSystem\exports\students.csv
+2026-07-20 20:46:57 | INFO | Import complete. Imported=0 Skipped=4
+2026-07-20 20:48:42 | INFO | Application exited.
+2026-07-20 20:49:56 | INFO | Application started.

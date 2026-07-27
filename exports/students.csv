@@ -1,0 +1,5 @@
+student_id,first_name,last_name,gender,age,department,course,email,phone,address,admission_date
+1,Rahul,Sharma,Male,20,Computer Science,B.Tech,rahul.sharma@example.com,9076543210,"Hyderabad, India",2023-08-01
+2,Priya,Reddy,Female,21,Electronics,B.Tech,priya.reddy@example.com,9876543211,"Bengaluru, India",2023-08-01
+3,Ahmed,Rahman,Male,22,Mechanical,B.Tech,ahmed.rahman@example.com,9876543212,"Chennai, India",2022-08-01
+4,Sneha,Iyer,Female,19,Computer Science,B.Tech,sneha.iyer@example.com,9876543213,"Pune, India",2024-08-01
