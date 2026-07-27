@@ -121,16 +121,14 @@ python -m unittest tests/test_operations.py -v
 
 ## Screenshots
 
-## Screenshots
-
 ### Main Menu
-![Main Menu](images/main-menu.png)
+![Main Menu](main-menu.png)
 
 ### View Students Table
-![View Students Table](images/view-students.png)
+![View Students Table](view-students.png)
 
 ### Student Report
-![Student Report](images/student-report.png)
+![Student Report](student-report.png)
 
 ## License
 
