@@ -121,11 +121,16 @@ python -m unittest tests/test_operations.py -v
 
 ## Screenshots
 
-_Add screenshots of the running CLI here._
+## Screenshots
 
-`[ Screenshot Placeholder: Main Menu ]`
-`[ Screenshot Placeholder: View Students Table ]`
-`[ Screenshot Placeholder: Student Report ]`
+### Main Menu
+![Main Menu](images/main-menu.png)
+
+### View Students Table
+![View Students Table](images/view-students.png)
+
+### Student Report
+![Student Report](images/student-report.png)
 
 ## License
 
